@@ -2,7 +2,8 @@
   "profiles": [
     { "id": 1, "name":"John"},
     { "id": 2, "name":"Judy" },
-    { "id": 3, "name":"Jack" }
+    { "id": 3, "name":"Jack" },
+    { "id": 3, "name":"Bran"
   ],
   
 }
